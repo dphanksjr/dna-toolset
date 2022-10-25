@@ -3,7 +3,7 @@ DNA Toolset
 
 Python based toolkit that creates a random string of dna/rna or allows you to enter your own string.  The appication has the following functionsL
 
--Gets the sequence info
+-Gets the sequence info<br/>
 -Nucleotide Frequency
 -Transcription
 -Reverse complement
